@@ -1,6 +1,6 @@
 # odin-landing-page
 ### Landing Page project from TOP with black and yellow theme
-[Preview](https://egoist000.github.io/odin-landing-page/)
+[Demo](https://egoist000.github.io/odin-landing-page/)
 # Credits
 * [Odin Project](https://www.theodinproject.com/)
 * [Pexels](https://www.pexels.com/)
